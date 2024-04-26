@@ -12,8 +12,7 @@
 {cmd:upenn} changes the default look and feel of Stata graphics.
 
 {pstd}
-Many of the features of plotupenn are adapted from the excellent black and 
-white colorscheme plotplain and cleanplots.
+Many of the features of plotupenn are adapted from the excellent plotplain and cleanplots.
 
 {title:Using plotupenn}
 
