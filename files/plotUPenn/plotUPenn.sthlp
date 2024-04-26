@@ -6,14 +6,18 @@
 {p2col:{cmd:plotUPenn} {hline 2}}Graphics scheme that implements brand colors of the University of Pennsylvania. {p_end}
 {p2colreset}{...}
 
+{title:Colors}
+
+{pstd}
+https://branding.web-resources.upenn.edu/logos-and-branding/elements-penn-logo
+
+{pstd}
+https://standards.wharton.upenn.edu/color/
+
 {title:Overview}
 
 {pstd}
 {cmd:upenn} changes the default look and feel of Stata graphics.
-
-{pstd}
-https://branding.web-resources.upenn.edu/logos-and-branding/elements-penn-logo
-https://standards.wharton.upenn.edu/color/
 
 {pstd}
 Many of the features of plotUPenn are adapted from the excellent black and 
