@@ -13,8 +13,7 @@
 
 {pstd}
 Many of the features of plotupenn are adapted from the excellent black and 
-white colorscheme plotplain 
-{browse "https://www.dropbox.com/s/m5viis9oybgkept/FigureScheme.pdf?dl=0": which you can read about here}.
+white colorscheme plotplain and cleanplots.
 
 {title:Using plotupenn}
 
