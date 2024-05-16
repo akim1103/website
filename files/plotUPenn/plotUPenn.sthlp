@@ -3,7 +3,7 @@
 {title:Title}
 
 {p2colset 5 16 16 1}{...}
-{p2col:{cmd:plotUPenn} {hline 2}}Graphics scheme that implements brand colors of the University of Pennsylvania. {p_end}
+{p2col:{cmd:plotUPenn} {hline 2}} Graphics scheme that implements brand colors of the University of Pennsylvania. {p_end}
 {p2colreset}{...}
 
 {title:Colors}
