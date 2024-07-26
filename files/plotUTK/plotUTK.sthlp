@@ -6,6 +6,11 @@
 {p2col:{cmd:plotUTK} {hline 2}}Graphics scheme that implements brand colors of University of Tennessee, Knoxville. {p_end}
 {p2colreset}{...}
 
+{title:Colors}
+
+{pstd}
+https://brand.tennessee.edu/color/
+
 {title:Overview}
 
 {pstd}
