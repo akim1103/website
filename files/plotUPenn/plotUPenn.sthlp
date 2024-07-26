@@ -17,7 +17,7 @@ https://standards.wharton.upenn.edu/color/
 {title:Overview}
 
 {pstd}
-{cmd:upenn} changes the default look and feel of Stata graphics.
+{cmd:plotUPenn} changes the default look and feel of Stata graphics.
 
 {pstd}
 Many of the features of plotUPenn are adapted from the excellent black and 
