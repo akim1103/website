@@ -3,19 +3,19 @@
 {title:Title}
 
 {p2colset 5 16 16 1}{...}
-{p2col:{cmd:plotupenn} {hline 2}}Graphics scheme that implements brand colors of University of Tennessee, Knoxville. {p_end}
+{p2col:{cmd:plotUTK} {hline 2}}Graphics scheme that implements brand colors of University of Tennessee, Knoxville. {p_end}
 {p2colreset}{...}
 
 {title:Overview}
 
 {pstd}
-{cmd:upenn} changes the default look and feel of Stata graphics.
+{cmd:plotUTK} changes the default look and feel of Stata graphics.
 
 {pstd}
 Many of the features of plotUTK are adapted from the excellent black and 
 white colorscheme plotplain and cleanplots.
 
-{title:Using plotupenn}
+{title:Using plotUTK}
 
 {pstd}
 To change your graphics scheme to {cmd:plotUTK} use the command: 
