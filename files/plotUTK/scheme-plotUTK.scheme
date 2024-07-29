@@ -13,8 +13,7 @@ yesno legend_row_first       yes
 
 margin axis_title small
 
-graphsize x 7
-graphsize y 4
+graphsize x 6
 
 gsize                 medsmall
 gsize gap             tiny
