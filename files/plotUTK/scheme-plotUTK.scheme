@@ -15,22 +15,22 @@ margin axis_title small
 
 graphsize x 6
 
-gsize                 medsmall
+gsize                 small
 gsize gap             tiny
-gsize text            medsmall
-gsize body            medsmall
-gsize small_body      medsmall
-gsize heading         medsmall
-gsize subheading      medsmall
-gsize axis_title      medsmall
+gsize text            small
+gsize body            small
+gsize small_body      small
+gsize heading         small
+gsize subheading      small
+gsize axis_title      small
 gsize matrix_label    large
-gsize label           medsmall     
+gsize label           small     
 gsize small_label     small     
 gsize matrix_marklbl  small     
 gsize key_label       small     
 gsize note            small
-gsize star            medsmall
-gsize text_option     medsmall     
+gsize star            small
+gsize text_option     small     
 gsize dot_rectangle   third_tiny
 gsize axis_space      half_tiny
 gsize axis_title_gap  minuscule
@@ -42,7 +42,7 @@ gsize notickgap       tiny
 gsize tick_label      small
 gsize tick_biglabel   medsmall
 gsize minortick_label vsmall
-gsize filled_text     medsmall
+gsize filled_text     small
 gsize reverse_big     large
 gsize alternate_gap   zero
 gsize title_gap       vsmall
