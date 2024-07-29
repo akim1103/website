@@ -18,17 +18,17 @@ graphsize x 6
 gsize                 medsmall
 gsize gap             tiny
 gsize text            medsmall
-gsize body            medsmall
-gsize small_body      medsmall
+gsize body            small
+gsize small_body      small
 gsize heading         medsmall
 gsize subheading      medsmall
 gsize axis_title      medsmall
-gsize matrix_label    large
+gsize matrix_label    vlarge
 gsize label           medsmall     
-gsize small_label     small     
-gsize matrix_marklbl  small     
-gsize key_label       small     
-gsize note            small
+gsize small_label     medsmall     
+gsize matrix_marklbl  medsmall     
+gsize key_label       medsmall     
+gsize note            medsmall
 gsize star            medsmall
 gsize text_option     medsmall     
 gsize dot_rectangle   third_tiny
@@ -39,9 +39,9 @@ gsize minortick       half_tiny
 * gsize minortick       .55
 gsize tickgap         half_tiny
 gsize notickgap       tiny
-gsize tick_label      small
-gsize tick_biglabel   medsmall
-gsize minortick_label vsmall
+gsize tick_label      medsmall
+gsize tick_biglabel   medium
+gsize minortick_label small
 gsize filled_text     medsmall
 gsize reverse_big     large
 gsize alternate_gap   zero
