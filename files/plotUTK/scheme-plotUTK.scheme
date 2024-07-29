@@ -60,7 +60,7 @@ gsize legend_key_ysize  vsmall
 gsize legend_key_xsize  vsmall
 
 gsize zyx2legend_key_gap    tiny
-gsize zyx2legend_key_xsize  vhuge
+gsize zyx2legend_key_xsize  vsmall
 gsize zyx2rowgap            zero
 
 * gsize clegend_width     huge
