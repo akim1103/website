@@ -3,7 +3,7 @@
 {title:Title}
 
 {p2colset 5 16 16 1}{...}
-{p2col:{cmd:plotUTK} {hline 2}}Graphics scheme that implements brand colors of University of Tennessee, Knoxville. Last updated on 2024/08/01. {p_end}
+{p2col:{cmd:plotUTK} {hline 2}}Graphics scheme that implements brand colors of University of Tennessee, Knoxville. {p_end}
 {p2colreset}{...}
 
 {title:Colors}
@@ -34,5 +34,5 @@ Stata's default graphic scheme as of version 18 is {cmd:stcolor}. To change back
 
 {title:Authorship}
 
-{pstd} {cmd:plotUTK} is written by Andrew Taeho Kim (Department of Sociology, University of Tennessee, Knoxville). Questions can be sent to atkim@utk.edu {p_end}
+{pstd} {cmd:plotUTK} is written by Andrew Taeho Kim (Department of Sociology, University of Tennessee, Knoxville). Questions can be sent to atkim@utk.edu. Last updated on 2024/08/01. {p_end}
 
