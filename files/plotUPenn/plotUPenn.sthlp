@@ -1,9 +1,9 @@
 {smcl}
-{* 2024-04-25 Andrew Taeho Kim}{...}
+{* 2024-05-01 Andrew Taeho Kim}{...}
 {title:Title}
 
 {p2colset 5 16 16 1}{...}
-{p2col:{cmd:plotUPenn} {hline 2}} Graphics scheme that implements brand colors of the University of Pennsylvania. {p_end}
+{p2col:{cmd:plotUPenn} {hline 2}} Graphics scheme that implements brand colors of the University of Pennsylvania. Last updated on 2024/05/01. {p_end}
 {p2colreset}{...}
 
 {title:Colors}
