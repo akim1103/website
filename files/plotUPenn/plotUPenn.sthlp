@@ -31,11 +31,11 @@ To change your graphics scheme to {cmd:plotUPenn} use the command:
 {phang2} {stata set scheme plotUPenn, perm: set scheme plotUPenn, perm}
 
 {pstd}
-Stata's default graphic scheme as of version 17 is {cmd:s2color}. To change back to the default: 
+Stata's default graphic scheme as of version 18 is {cmd:stcolor}. To change back to the default: 
 
-{phang2} {stata set scheme s2color, perm: set scheme s2color, perm}
+{phang2} {stata set scheme stcolor, perm: set scheme stcolor, perm}
 
 {title:Authorship}
 
-{pstd} {cmd:plotUPenn} is written by Andrew Taeho Kim (Population Studies Center, University of Pennsylvania). Questions can be sent to atkim@sas.upenn.edu. Last updated on 2024/05/01. {p_end}
+{pstd} {cmd:plotUPenn} is written by Andrew Taeho Kim (Population Studies Center, University of Pennsylvania). Questions can be sent to atkim@sas.upenn.edu. Last updated on 2024/08/01. {p_end}
 
