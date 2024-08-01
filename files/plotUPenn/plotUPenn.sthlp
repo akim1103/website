@@ -3,7 +3,7 @@
 {title:Title}
 
 {p2colset 5 16 16 1}{...}
-{p2col:{cmd:plotUPenn} {hline 2}} Graphics scheme that implements brand colors of the University of Pennsylvania. Last updated on 2024/05/01. {p_end}
+{p2col:{cmd:plotUPenn} {hline 2}} Graphics scheme that implements brand colors of the University of Pennsylvania. {p_end}
 {p2colreset}{...}
 
 {title:Colors}
@@ -37,5 +37,5 @@ Stata's default graphic scheme as of version 17 is {cmd:s2color}. To change back
 
 {title:Authorship}
 
-{pstd} {cmd:plotUPenn} is written by Andrew Taeho Kim (Population Studies Center, University of Pennsylvania). Questions can be sent to atkim@sas.upenn.edu {p_end}
+{pstd} {cmd:plotUPenn} is written by Andrew Taeho Kim (Population Studies Center, University of Pennsylvania). Questions can be sent to atkim@sas.upenn.edu. Last updated on 2024/05/01. {p_end}
 
